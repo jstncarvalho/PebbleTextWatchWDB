@@ -8,7 +8,12 @@
   "watchapp": {
     "watchface": true
   },
-  "appKeys": {},
+  "appKeys": {
+    "KEY_TEMPERATURE": 0,
+    "KEY_LOW": 1,
+    "KEY_HIGH": 2,
+    "KEY_CONDITIONS": 3
+  },
   "resources": {
     "media": [
       {
